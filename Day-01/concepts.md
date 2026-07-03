@@ -1,0 +1,8 @@
+- Variables
+- Data types (`int`, `float`, `str`, `bool`)
+- `print()`
+- `input()`
+- Arithmetic operators (`+`, `-`, `*`, `/`, `//`, `%`, `**`)
+- `if` statements
+- f-strings
+- `.lower()`
